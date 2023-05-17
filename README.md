@@ -56,6 +56,7 @@ C:\> ping google.com.np
 # tracepath google.com.np
 ```
 It does maximum 30Hops
+![Forward Lookup Diagram](/Diagram/fowardhop.png)
 
 7. Identify the name server
 This is forward lookup as we go from domain to IP
