@@ -34,8 +34,8 @@ C:\> ipconfig /all
 Output:
 ```
 IPv4 Address. . . . . . . . . . . : 172.16.0.44(Preferred)
-Subnet Mask . . . . . . . . . . . : 255.255.255.0   
-Default Gateway . . . . . . . . . : 172.16.0.1                                                                         
+Subnet Mask . . . . . . . . . . . : 255.255.255.0  
+Default Gateway . . . . . . . . . : 172.16.0.1          
 DHCP Server . . . . . . . . . . . : 172.16.0.1 
 ```
 
