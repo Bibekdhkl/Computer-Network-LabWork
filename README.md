@@ -64,9 +64,9 @@ This is forward lookup as we go from domain to IP
 C:\> nslookup google.com.np
 ```
 IP Details:
-```Non-authoritative answer:                                                                                               
-Name:    google.com.np                                                                                                  
-Addresses:  2404:6800:4007:820::2003                                                                                              
+```Non-authoritative answer:
+Name:    google.com.np
+Addresses:  2404:6800:4007:820::2003
           142.250.193.131
 ```     
 
